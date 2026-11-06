@@ -1,0 +1,54 @@
+# OpenClaw Multi-Channel AI Agent
+
+# Python dependencies for project integrations
+
+# Environment variables
+
+python-dotenv
+
+# HTTP / API requests
+
+requests
+httpx
+
+# Telegram integration
+
+python-telegram-bot
+
+# Google / Gmail OAuth
+
+google-auth
+google-auth-oauthlib
+google-api-python-client
+
+# Browser automation
+
+playwright
+
+# AI / LLM
+
+openai
+
+# RAG / Embeddings
+
+langchain
+langchain-community
+langchain-openai
+
+# Vector database
+
+chromadb
+
+# Data processing
+
+pandas
+numpy
+
+# Testing
+
+pytest
+
+# Utilities
+
+pydantic
+tenacity
